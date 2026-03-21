@@ -1,0 +1,4 @@
+# Tes notes de design
+Figma Link: https://www.figma.com/file/your_link_here
+Colors: #1A1A1A, #FFFFFF, #E0E0E0
+Typography: Inter, Roboto
